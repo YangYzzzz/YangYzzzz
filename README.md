@@ -1,5 +1,6 @@
 [![YangYzzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangYzzzz&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=YangYzzzz&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=YangYzzzz&layout=compact&count_private=true&theme=ambient_gradient)](#)
 # 👋 Hi, I'm 🐑Yang
 
 ## 🚀 What I Do
