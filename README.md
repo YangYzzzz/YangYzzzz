@@ -1,7 +1,7 @@
 [![YangYzzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangYzzzz&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=YangYzzzz&count_private=true&layout=compact&bg_color=9b59b6,e91e63,f1c40f&title_color=fff&text_color=fff)](#)
-# 👋 Hi, I'm 🐑Yang
+# 👋 Hi, I'm 🐑Yang <img align="right" src="https://komarev.com/ghpvc/?username=Yangyzzzz" />
 
 ## 🚀 What I Do
 
