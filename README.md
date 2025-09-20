@@ -5,7 +5,7 @@
 
 ## 🚀 What I Do
 
-I am a **junior** at **Beihang University**. I specialize in **School of Computer Science and Engineering** and have **3** years of experience. I love working on projects that involve **Computer Science & Artificial Intelligence**.
+I am a first year PhD. Student at **University of Science and Technology of China**. I love working on projects that involve **Computer Science & Artificial Intelligence**. Now, I am a MLLM intern at Shanghai AI Laboratory.
 
 ## 📚 My Background
 
@@ -21,12 +21,6 @@ My professional interests:
 My hobbies:
 - 🎸 Guitar
 - 🗡️ Type of MOBA / ARPG / card games, especially ❤️the soul-like games❤️
-
-## 🥇 My Awards:
-Waiting to fill in......
-
-## 📃 My Papers:
-Waiting to fill in......
 
 ## 🔗 Connect With Me
 
